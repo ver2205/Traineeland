@@ -50,3 +50,7 @@ This is a **file-based Record Management System** built using Python and Object-
 2. Run with:
    ```bash
    python TASK1.py
+
+## Screenshot
+
+<img width="357" height="500" alt="image" src="https://github.com/user-attachments/assets/5d9f7fbd-8697-4b2c-9edd-35d94257ead9" />
